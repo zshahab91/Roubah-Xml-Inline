@@ -1,0 +1,15 @@
+<page>
+    <text> متن معمولی</text>
+    <text><small>متن کوچک</small></text>
+    <text><big>متن بزرگ</big></text>
+    <text><hl>متن هایلایت شده</hl></text>
+    <text><strong>متن پر رنگ</strong></text>
+    <text><bold>متن پر رنگ</bold></text>
+    <text><font size="20px" color="#8a2be2" face="verdana">  متن بیست پیکسلی با رنگ بنفش به شکل با فونت وردانا</font></text>
+    <text><i>متن کج</i></text>
+    <text><u><sup>یکم می‌بره بالا</sup></u></text>
+    <text><u><sub>یکم میاره پایین</sub></u></text>
+    <text><u>متن با یک خط زیرش</u></text>
+    <text>سلام و تست <img src="http://www.biacafe.ir/wp-content/uploads/2015/04/biacafe.ir-1551.jpg"/> بچهٔ ناز</text>
+    <button action="/"> خانه </button>
+</page>

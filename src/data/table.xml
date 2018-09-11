@@ -1,0 +1,59 @@
+<page>
+    <text>بردر گرد و دیوایدر بین سطرها</text>
+    <divider/>
+    <table divider='betweenRows' border='round' dividerColor='0000FF' borderColor='0000FF' size='large'>
+        <tableRow showDivider='false' dividerColor='#FF0000'>
+            <image weight='-1' src='https://www.emojibase.com/resources/img/emojis/hangouts/1f1ee-1f1f7.png'/>
+            <text weight='-1'>ایران</text>
+            <text style='centered' weight='1'>۱ : ۳</text>
+            <text weight='-1'>اسپانیا</text>
+            <image weight='-1' src='https://www.emojibase.com/resources/img/emojis/hangouts/1f1ea-1f1f8.png'/>
+        </tableRow>
+        <tableRow showDivider='false' dividerColor='#FFFF00'>
+            <text>این یک متن است.</text>
+            <text>این یک متن است.</text>
+            <text>این یک متن است.</text>
+        </tableRow>
+    </table>
+    <divider/>
+    <text>بدون بردر و دیوایدر</text>
+    <divider/>
+    <table divider='none' border='none' size='normal'>
+        <tableRow showDivider='false' dividerColor='#FF0000'>
+            <image weight='-1' src='https://www.emojibase.com/resources/img/emojis/hangouts/1f1ee-1f1f7.png'/>\n" +
+            <text weight='-1'>ایران</text>
+            <text style='centered' weight='1'>۱ : ۳</text>
+            <text weight='-1'>اسپانیا</text>
+            <image weight='-1' src='https://www.emojibase.com/resources/img/emojis/hangouts/1f1ea-1f1f8.png'/>
+        </tableRow>
+        <tableRow showDivider='false' dividerColor='#FFFF00'>
+            <text style='centered'>متن تستی.</text>
+            <text style='centered'>متن تستی دیگر.</text>
+        </tableRow>
+        <tableRow showDivider='true' dividerColor='#FF0000'>
+            <text style='centered'>متن تستی.</text>
+            <text style='centered'>متن تستی دیگر.</text>
+        </tableRow>
+    </table>
+    <divider/>
+    <text>بدون بردر دیوایدر بین سطرها</text>
+    <divider/>
+    <table divider='betweenRows' border='none' size='normal'>
+        <tableRow showDivider='false' dividerColor='#FF0000'>
+            <image weight='-1' src='https://www.emojibase.com/resources/img/emojis/hangouts/1f1ee-1f1f7.png'/>
+            <text weight='-1'>ایران</text>
+            <text style='centered' weight='1'>۱ : ۳</text>
+            <text weight='-1'>اسپانیا</text>
+            <image weight='-1' src='https://www.emojibase.com/resources/img/emojis/hangouts/1f1ea-1f1f8.png'/>
+        </tableRow>
+        <tableRow showDivider='false' dividerColor='#FFFF00'>
+            <text style='centered'>متن تستی.</text>
+            <text style='centered'>متن تستی دیگر.</text>
+        </tableRow>
+        <tableRow showDivider='false' dividerColor='#FFFF00'>
+            <text style='centered'>متن تستی.</text>
+            <text style='centered'>متن تستی دیگر.</text>
+        </tableRow>
+    </table>
+    <divider/>
+</page>

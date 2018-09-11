@@ -1,0 +1,213 @@
+<page>
+    <list token="2" path="categories">
+        <card elevated="true" action="detail/679573">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/12/1/1588681_512_MQ.jpg"/>
+            <text>
+                <b>اینفوگرافی: سال‌های سقوط</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۲/۰۱ ۰۷:۲۲</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/678467">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/12/1/1588680_438_MQ.jpg"/>
+            <text>
+                <b>فساد دیوانی، امتناعِ گفت‌و‌گو و اعتماد عمومی</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۲/۰۱ ۰۷:۲۱</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/679616">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/12/1/1588679_694_MQ.jpg"/>
+            <text>
+                <b>چگونه بعد از سقوط هواپیما زنده بمانیم؟</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۲/۰۱ ۰۷:۲۱</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/669445">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/12/1/1588677_650_MQ.jpg"/>
+            <text>
+                <b>شرایط سفته دادن کارگران به کارفرما</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۲/۰۱ ۰۷:۲۰</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/17926">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1588051_646_MQ.jpg"/>
+            <text>
+                <b>وقتي حرفي باهم نداريم چه كنيم؟</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۴:۰۴</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/152797">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1588047_906_MQ.jpg"/>
+            <text>
+                <b>شما «واقعا» چند سال‌تان است؟</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۴:۰۲</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/134227">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1588031_300_MQ.jpg"/>
+            <text>
+                <b>لباس روز خواستگاری از نوع خانمانه</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۳:۵۱</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/665270">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1588013_609_MQ.jpg"/>
+            <text>
+                <b>میوه‌ها و سبزیجاتی که سیاسی شدند!</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۳:۴۸</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/677273">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1588007_590_MQ.jpg"/>
+            <text>
+                <b>چه رنگ مویی به من میاد؟</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۳:۳۳</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/658509">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1587919_363_MQ.jpg"/>
+            <text>
+                <b>۱۰ قبیله غیرمتمدن و دورافتاده</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۲:۴۰</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/679509">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1587907_441_MQ.jpg"/>
+            <text>
+                <b>گمشدگان آسمان</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۲:۳۱</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/679444">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1587879_764_MQ.jpg"/>
+            <text>
+                <b>ویکی پدیا در ایران</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۱۲:۰۹</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/679084">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/30/1587622_542_MQ.jpg"/>
+            <text>
+                <b>خدمات نظافت منزل؛ از لیسانسه تا مرد ۶۰ ساله!</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۳۰ ۰۸:۵۶</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/679006">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/29/1586779_813_MQ.jpg"/>
+            <text>
+                <b>آیا طرح ترافیک در کشور‌های دیگر هم اجرا می‌شود؟</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۲۹ ۱۳:۴۱</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/678994">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/29/1586699_989_MQ.jpg"/>
+            <text>
+                <b>تجربه خشن راه‌اندازی اسنپ در مراکز استان‌ها</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۲۹ ۱۲:۳۸</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/665009">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/29/1586664_822_MQ.jpg"/>
+            <text>
+                <b>در دور یک میز، روی کدام صندلی بنشینیم؟</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۲۹ ۱۲:۱۴</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/673867">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/29/1586653_415_MQ.jpg"/>
+            <text>
+                <b>مرگ تنباکویی در ایران</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۲۹ ۱۲:۰۶</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/676040">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/29/1586397_238_MQ.jpg"/>
+            <text>
+                <b>بهترین رنگ‌های سایه برای چشم‎ آبی</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۲۹ ۱۰:۰۲</font>
+                </small>
+            </text>
+        </card>
+        <card elevated="true" action="detail/678546">
+            <image aspectRatio="1:1" src="http://cdn.bartarinha.ir/files/fa/news/1396/11/29/1586258_484_MQ.jpg"/>
+            <text>
+                <b>نظرات جنجالی «جلال الدین فارسی» درباره «امام موسی صدر»</b>
+            </text>
+            <text>
+                <small>
+                    <font color="gray">۱۳۹۶/۱۱/۲۹ ۰۸:۵۳</font>
+                </small>
+            </text>
+        </card>
+    </list>
+</page>

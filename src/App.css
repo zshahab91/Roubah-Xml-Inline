@@ -1,0 +1,319 @@
+body{
+  direction: rtl;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+a{
+  color: inherit;
+}
+.bodyContent{
+    background: #d1d3d4;
+    color: #000;
+    height: auto;
+    min-height: 100vh;
+    padding: 10px;
+    position: relative;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px 0;
+    display: inline-block;
+}
+.imgNormal{
+    width: 100%;
+}
+input,select{
+    width: 100%;
+    height: 50px;
+    text-align: right;
+    border: none;
+    border-bottom: 1px solid deepskyblue;
+    margin: 10px auto;
+    display: block;
+    padding: 5px;
+    border-radius: 3px;
+}
+input[type=checkbox], input[type=radio] {
+    width: inherit;
+    float: right;
+    height: auto;
+    margin: 5px;
+}
+option{
+    margin: 5px;
+    padding: 5px;
+    background: azure;
+}
+.checkbox{
+    display: inline-block;
+}
+.footer a{
+    width: 50%;
+}
+.infinite-list-item{
+    height: 100px;
+    background: #FFCC00;
+    border: 1px solid red;
+    color: #000;
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+    color: #ffffff;
+    padding: 5px;
+    margin: 0 auto;
+    width: 100%;
+    height: 70px;
+    background: #4b5158a3;
+    line-height: 50px;
+    font-size: 30px;
+}
+.vr
+{
+  display:inline;
+  height:100%;
+  width:1px;
+  border:1px inset;
+  margin:5px;
+    padding: 0 !important;
+}
+.btn{
+    width: 100%;
+    margin: 5px auto;
+}
+
+.dualBtn{
+  display: inline-block;
+  width: 100%;
+  padding: 1% 0;
+}
+.dualBtn  a{
+  width: 50%;
+  margin: 0 auto;
+}
+.fullWidth{
+    width: 100%;
+  object-fit: contain;
+}
+.avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 50% !important;
+    border: 1px solid #e0e0e0 !important;
+  object-fit: contain;
+    margin: 30px;
+}
+.card{
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  margin: 5px auto;
+  width: 100%;
+  text-align: right;
+  height: auto;
+  display: inline-block;
+  color: inherit !important;
+}
+.card:hover{
+    background: #e0e0e0 !important ;
+    border : 1px solid #e0e0e0;
+}
+.card img{
+  width: 20%;
+  border:none;
+  height: auto;
+  float: right;
+  border-radius: 0;
+}
+.boxes{
+    height: 300px;
+    overflow: auto;
+    background: greenyellow;
+}
+.card div{
+    width: 75%;
+    padding: 30px;
+    float: left;
+}
+.cardSmall img{
+  width: 5%;
+}
+.cardSmall div{
+    width: 90%;
+}
+.cardLarge img{
+  width: 25%;
+}
+.cardLarge div{
+    width: 70%;
+}
+.cardReverse img{
+  float: left;
+}
+.cardElevated{
+  -webkit-box-shadow: 13px 9px 13px -6px rgba(161,158,161,0.85);
+  -moz-box-shadow: 13px 9px 13px -6px rgba(161,158,161,0.85);
+  box-shadow: 13px 9px 13px -6px rgba(161,158,161,0.85);
+}
+
+.stars {
+  display:inline-block;
+  width:auto;
+  position:relative;
+  font-size:28px;
+  border:2px outset #FC0;
+  border-radius:5px;
+  background-color:navy;
+  margin:5px;
+}
+
+.stars:BEFORE {
+  content:"★★★★★";
+  position:absolute;
+  overflow:hidden;
+  z-index:1;
+  left:0;
+  top:0;
+  /* everything below here is optional. */
+  color:#FC0;
+  text-shadow:0 1px 0 #000, 0 -1px 0 #fff;
+}
+
+.stars:AFTER {
+  content:"★★★★★";
+  position:relative;
+  color:#fff;
+}
+
+.stars:NOT([data-percent]):BEFORE,
+.stars[data-percent="0"]:BEFORE {
+  display:none;
+}
+/* 1/2 a star */
+.stars[data-percent="5"]:BEFORE {
+  width:5%;
+}
+.stars[data-percent="10"]:BEFORE {
+  width:10%;
+}
+.stars[data-percent="15"]:BEFORE {
+  width:15%;
+}
+/* 1 star */
+.stars[data-percent="20"]:BEFORE {
+  width:20%;
+}
+.stars[data-percent="25"]:BEFORE {
+  width:25%;
+}
+/* 1 & 1/2 stars */
+.stars[data-percent="30"]:BEFORE {
+  width:30%;
+}
+.stars[data-percent="35"]:BEFORE {
+  width:35%;
+}
+/* etc. */
+.stars[data-percent="40"]:BEFORE {
+  width:40%;
+}
+.stars[data-percent="45"]:BEFORE {
+  width:45%;
+}
+.stars[data-percent="50"]:BEFORE {
+  width:50%;
+}
+.stars[data-percent="55"]:BEFORE {
+  width:55%;
+}
+.stars[data-percent="60"]:BEFORE {
+  width:60%;
+}
+.stars[data-percent="65"]:BEFORE {
+  width:65%;
+}
+.stars[data-percent="70"]:BEFORE {
+  width:70%;
+}
+.stars[data-percent="75"]:BEFORE {
+  width:75%;
+}
+.stars[data-percent="80"]:BEFORE {
+  width:80%;
+}
+.stars[data-percent="85"]:BEFORE {
+  width:85%;
+}
+.stars[data-percent="90"]:BEFORE {
+  width:90%;
+}
+.stars[data-percent="95"]:BEFORE {
+  width:95%;
+}
+.stars[data-percent="100"]:BEFORE {
+  width:100%;
+}
+/*Star Add Rating*/
+
+.star-cb-group {
+    /* remove inline-block whitespace */
+    font-size: 0;
+    /* flip the order so we can use the + and ~ combinators */
+    unicode-bidi: bidi-override;
+    /*text-align: center;*/
+    /* the hidden clearer */
+}
+.star-cb-group * {
+    font-size: 2.5rem;
+}
+.star-cb-group > input {
+    display: none;
+}
+.star-cb-group > input + label {
+    /* only enough room for the star */
+    display: inline-block;
+    overflow: hidden;
+    text-indent: 9999px;
+    width: 1.5em;
+    white-space: nowrap;
+    cursor: pointer;
+    float: left;
+}
+.star-cb-group > input + label:before {
+    display: inline-block;
+    text-indent: -9999px;
+    content: "☆";
+    color: #888;
+}
+.star-cb-group > input:checked ~ label:before, .star-cb-group > input + label:hover ~ label:before, .star-cb-group > input + label:hover:before {
+    content: "★";
+    color: #e52;
+    text-shadow: 0 0 1px #333;
+}
+.star-cb-group > .star-cb-clear + label {
+    text-indent: -9999px;
+    width: .5em;
+    margin-left: -.5em;
+}
+.star-cb-group > .star-cb-clear + label:before {
+    width: .5em;
+}
+.star-cb-group:hover > input + label:before {
+    content: "☆";
+    color: #888;
+    text-shadow: none;
+}
+.star-cb-group:hover > input + label:hover ~ label:before, .star-cb-group:hover > input + label:hover:before {
+    content: "★";
+    color: #e52;
+    text-shadow: 0 0 1px #333;
+}
+.google-map{
+    width: 100%;
+    height: 600px;
+}
+
